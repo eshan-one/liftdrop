@@ -1,9 +1,7 @@
 .idea/
-*.iml
 .DS_Store
 .env
 .env.*
-target/
 
 # Node
 node_modules/
