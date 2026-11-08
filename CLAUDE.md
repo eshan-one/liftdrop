@@ -6,3 +6,4 @@
 - Personal GitHub (`eshan-one`) only — never the work account.
 - No secrets in git. Keys and tokens go in gitignored env files.
 - Small steps. Never scaffold a whole app at once.
+- Never commit directly to `main`. All work happens on `dev`; open a PR from `dev` into `main` and get Eshan's approval before merging.
